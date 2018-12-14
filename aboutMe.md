@@ -7,3 +7,6 @@
 ![支付宝二维码](https://github.com/RandyWei/QiankunTower/blob/master/zfb.jpg)
 
 ![微信二维码](https://github.com/RandyWei/QiankunTower/blob/master/wx.jpg)
+
+### 意见反馈
+如果您有宝贵的意见，可以通过邮件(smile561607154@163.com)或者[https://github.com/RandyWei/QiankunTower/issues](https://github.com/RandyWei/QiankunTower/issues)发送给我，我会在闲时查看处理。
